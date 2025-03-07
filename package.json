@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "omelettemui",
+=======
+  "name": "desktopmui",
+>>>>>>> dc5b472b5a6a32e6c4a9baff0cc5264f9911e995
   "version": "0.1.0",
   "private": true,
   "dependencies": {
